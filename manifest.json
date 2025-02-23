@@ -1,0 +1,11 @@
+{
+	"id": "lucidchart",
+	"name": "Lucidchart",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Insert Lucidchart documents in Obsidian",
+	"author": "Daniel By",
+	"authorUrl": "https://github.com/byitigingriab/obsidian-lucidchart/blob/main/README.md",
+	"fundingUrl": "https://github.com/byitigingriab/obsidian-lucidchart/blob/main/README.md",
+	"isDesktopOnly": false
+}
