@@ -1,2 +1,2 @@
 # obsidian-lucidchart
-Lucidchar Plugin for Obsidian
+Lucidchart Plugin for Obsidian
